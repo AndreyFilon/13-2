@@ -12,10 +12,9 @@
 
 <ins>**Ответ:**</ins>
 
-![1]()  
-
+![1](https://github.com/AndreyFilon/13-2/blob/main/create_user.jpg)  
+![2](https://github.com/AndreyFilon/13-2/blob/main/crypt.jpg)  
   
-
 ---
 
 ### Задание 2
