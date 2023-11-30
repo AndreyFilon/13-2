@@ -27,10 +27,10 @@
 
 <ins>**Ответ:**</ins>  
 
-![1]()  
-![1]()  
-![1]()  
-![1]()  
-![1]()  
+![1](https://github.com/AndreyFilon/13-2/blob/main/2.1.png)  
+![2](https://github.com/AndreyFilon/13-2/blob/main/2.2.png)  
+![3](https://github.com/AndreyFilon/13-2/blob/main/2.3.png)  
+![4](https://github.com/AndreyFilon/13-2/blob/main/2.4.png)  
+![5](https://github.com/AndreyFilon/13-2/blob/main/2.5.png)  
 
 ---
